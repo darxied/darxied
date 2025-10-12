@@ -35,7 +35,7 @@
 ---
 
 ### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=AmirAnzar&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=darxied&theme=radical)
 
 ---
 
