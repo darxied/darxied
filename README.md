@@ -4,10 +4,10 @@
 ---
 
 ### 🧩 About Me
-- 🎓 1st-year CSE Student @ [Your College Name]
-- 💡 Passionate about **Web Dev**, **AI/ML**, and **System Design**
-- 🧠 Currently learning **DSA** and **React**
-- ⚙️ Building projects like *Solar System Explorer* 🌍
+- 🎓 2nd-year CSE Student 
+- 💡 Passionate about **Tech**
+- 🧠 Currently learning **DSA**
+- ⚙️ Building projects like *Secure Wiping Tool* 🌍
 
 ---
 
@@ -25,10 +25,6 @@
 
 ### 🚀 Projects
 | Project | Description | Tech Used |
-|----------|--------------|------------|
-| [Solar System Explorer](https://github.com/AmirAnzar/solar-system-explorer) | Interactive 3D web app with clickable planets | React, Three.js |
-| [Zero Trace](https://github.com/AmirAnzar/zero-trace) | Secure data-wiping platform using blockchain | Python, Flask, Solidity |
-| [Portfolio Website](https://github.com/AmirAnzar/portfolio) | Personal developer portfolio | HTML, CSS, JS |
 
 ---
 
@@ -44,9 +40,9 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/md-amir-anzar-b76469280/))
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel)](https://yourportfolio.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:amir.anzar57@gmail.com)
 
 ---
 
