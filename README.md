@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Amir!  
+🚀 Engineering Student | 💻 Tech Enthusiast | 🌌 Exploring Web & AI  
 
-<!--
-**darxied/darxied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧩 About Me
+- 🎓 1st-year CSE Student @ [Your College Name]
+- 💡 Passionate about **Web Dev**, **AI/ML**, and **System Design**
+- 🧠 Currently learning **DSA** and **React**
+- ⚙️ Building projects like *Solar System Explorer* 🌍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visualstudiocode)
+
+---
+
+### 🚀 Projects
+| Project | Description | Tech Used |
+|----------|--------------|------------|
+| [Solar System Explorer](https://github.com/AmirAnzar/solar-system-explorer) | Interactive 3D web app with clickable planets | React, Three.js |
+| [Zero Trace](https://github.com/AmirAnzar/zero-trace) | Secure data-wiping platform using blockchain | Python, Flask, Solidity |
+| [Portfolio Website](https://github.com/AmirAnzar/portfolio) | Personal developer portfolio | HTML, CSS, JS |
+
+---
+
+### 📈 GitHub Stats
+![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirAnzar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAnzar&layout=compact&theme=radical)
+
+---
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=AmirAnzar&theme=radical)
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel)](https://yourportfolio.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+
+---
+
+⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*
