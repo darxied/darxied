@@ -29,8 +29,8 @@
 ---
 
 ### 📈 GitHub Stats
-![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirAnzar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAnzar&layout=compact&theme=radical)
+![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darxied&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darxied&layout=compact&theme=radical)
 
 ---
 
