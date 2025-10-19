@@ -40,7 +40,7 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/md-amir-anzar-b76469280/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)]([www.linkedin.com/in/md-amir-anzar-b76469280])
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel)](https://yourportfolio.com)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:amir.anzar57@gmail.com)
 
