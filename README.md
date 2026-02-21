@@ -4,7 +4,7 @@
 ---
 
 ### 🧩 About Me
-- 🎓 2nd-year CSE Student 
+- 🎓 3rd-year CS Student 
 - 💡 Passionate about **Tech**
 - 🧠 Currently learning **DSA**
 - ⚙️ Building projects like *Secure Wiping Tool* 🌍
