@@ -1,93 +1,113 @@
 <div align="center">
 
-  <!-- Dynamic Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_invert=false&height=180&section=header&text=Md%20Amir%20Anzar&fontSize=42&fontAlignY=35&desc=Computer%20Science%20Undergrad%20%E2%80%A2%20Full-Stack%20%26%20Systems&descAlignY=58&descAlign=50" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6366f1&height=200&section=header&text=Md%20Amir%20Anzar&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%C2%B7%20Full-Stack%20%26%20Systems&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Md Amir Anzar"/>
 
-  <!-- Live Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=CS+Engineering+Student+%F0%9F%8E%93;Building+Clean%2C+Modern+Web+Applications+%E2%9A%A1;Diving+Deep+into+DSA+%26+Core+Systems+%F0%9F%A7%A0;Exploring+AI+%26+System-Level+Tools+%F0%9F%8C%8C" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=620&height=30&lines=Building+clean%2C+fast+web+applications;Working+through+DSA+and+core+systems;Writing+security+tooling+close+to+the+file+system;Exploring+AI+and+system-level+tools" alt="Typing animation"/>
+</a>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/md-amir-anzar-b76469280">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:amir.anzar57@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://github.com/darxied?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-    </a>
-  </p>
+<br/>
+
+<a href="https://www.linkedin.com/in/md-amir-anzar-b76469280">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:amir.anzar57@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/darxied?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=darxied&style=flat-square&color=6366f1&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
----
+<br/>
 
-### ⚡ Snapshot
+## About
 
-```yaml
-name: Md Amir Anzar
-education: B.Tech in Computer Science & Engineering (3rd Year)
-focus_areas: Full-Stack Development, Data Structures & Algorithms, Privacy Tools
-current_reads: Advanced Algorithms & System Design
-hobbies: Exploring open-source tech, crafting UI replicas, debugging late at night
-```
+I'm a third-year B.Tech student in Computer Science & Engineering. I like building interfaces that feel precise, and I like understanding what happens underneath them: data structures, file systems, and how software actually talks to hardware.
 
----
+| | |
+| :-- | :-- |
+| **Studying** | B.Tech, Computer Science & Engineering (3rd year) |
+| **Focus** | Full-stack development, DSA, privacy and security tools |
+| **Reading** | Advanced algorithms and system design |
+| **Off-hours** | Open-source tech, rebuilding UIs from scratch, late-night debugging |
 
-### 🛠️ Tech Stack & Tooling
+<br/>
+
+## Tech Stack
 
 <div align="center">
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
-| **Frameworks & Libraries** | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> |
-| **DevOps & Environment** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> |
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,git,github,vscode,linux&theme=dark&perline=11" alt="Tech stack"/>
 
 </div>
 
----
+<table align="center">
+  <tr>
+    <td><b>Languages</b></td>
+    <td>C++ &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; HTML5 &nbsp;·&nbsp; CSS3</td>
+  </tr>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td>React &nbsp;·&nbsp; Node.js</td>
+  </tr>
+  <tr>
+    <td><b>Environment</b></td>
+    <td>Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; Linux</td>
+  </tr>
+</table>
 
-### 🚀 Highlighted Work
+<br/>
+
+## Selected Work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎬 Netflix Clone Web Application</h4>
-      <p>Responsive video streaming client replica with interactive previews, modal playback, genre filtration, and personal watchlist persistence.</p>
-      <p><code>HTML5</code> • <code>CSS3 Grid/Flexbox</code> • <code>Vanilla JS</code> • <code>TMDB CDN</code></p>
+      <h3>Netflix Clone</h3>
+      <p>A responsive streaming client with interactive previews, modal playback, genre filtering, and a persistent personal watchlist.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TMDB-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white"/>
+      </p>
+      <a href="https://github.com/darxied?tab=repositories"><b>View repository →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h4>🛡️ Secure Wiping Tool</h4>
-      <p>Security utility engineered for secure file sanitization and persistent data overwriting to prevent forensic recovery.</p>
-      <p><code>Python / C++</code> • <code>File Systems</code> • <code>Data Security</code></p>
+      <h3>Secure Wiping Tool</h3>
+      <p>A security utility for secure file sanitization. It overwrites data persistently so deleted files can't be recovered through forensic tools.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/File_Systems-6366F1?style=flat-square"/>
+      </p>
+      <a href="https://github.com/darxied?tab=repositories"><b>View repository →</b></a>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### 📈 Activity & Telemetry
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darxied&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=darxied&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darxied&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
-</div>
-
----
+## GitHub Activity
 
 <div align="center">
 
-  <!-- Interactive dynamic quote card -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote" />
+<img src="https://github-readme-stats.vercel.app/api?username=darxied&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=6366F1&count_private=true" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darxied&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&langs_count=6" height="165" alt="Top languages"/>
 
-  <!-- Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_invert=false&height=90&section=footer" width="100%" alt="Footer Wave"/>
+<img src="https://streak-stats.demolab.com?user=darxied&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakLabel=818CF8" alt="Contribution streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darxied&bg_color=0d1117&color=818cf8&line=6366f1&point=ffffff&area=true&area_color=6366f1&hide_border=true&radius=8" width="100%" alt="Contribution graph"/>
 
 </div>
+
+<br/>
+
+## Let's Connect
+
+I'm open to internships, collaborations, and conversations about full-stack work, systems, and security tooling. The quickest way to reach me is email at **amir.anzar57@gmail.com**, or message me on [LinkedIn](https://www.linkedin.com/in/md-amir-anzar-b76469280).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0d1117&height=100&section=footer" width="100%" alt=""/>
