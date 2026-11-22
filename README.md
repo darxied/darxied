@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6366f1&height=200&section=header&text=Md%20Amir%20Anzar&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%C2%B7%20Full-Stack%20%26%20Systems&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Md Amir Anzar"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6366f1&height=200&section=header&text=Md%20Amir%20Anzar&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%C2%B7%20Full-Stack%20and%20Systems&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Md Amir Anzar"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=620&height=30&lines=Building+clean%2C+fast+web+applications;Working+through+DSA+and+core+systems;Writing+security+tooling+close+to+the+file+system;Exploring+AI+and+system-level+tools" alt="Typing animation"/>
