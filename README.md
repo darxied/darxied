@@ -29,7 +29,7 @@ I'm a forth-year B.Tech student in Computer Science & Engineering. I like buildi
 
 | | |
 | :-- | :-- |
-| **Studying** | B.Tech, Computer Science & Engineering (3rd year) |
+| **Studying** | B.Tech, Computer Science & Engineering (4th year) |
 | **Focus** | Full-stack development, DSA, privacy and security tools |
 | **Reading** | Advanced algorithms and system design |
 | **Off-hours** | Open-source tech, rebuilding UIs from scratch, late-night debugging |
