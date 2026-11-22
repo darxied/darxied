@@ -25,7 +25,7 @@
 
 ## About
 
-I'm a third-year B.Tech student in Computer Science & Engineering. I like building interfaces that feel precise, and I like understanding what happens underneath them: data structures, file systems, and how software actually talks to hardware.
+I'm a forth-year B.Tech student in Computer Science & Engineering. I like building interfaces that feel precise, and I like understanding what happens underneath them: data structures, file systems, and how software actually talks to hardware.
 
 | | |
 | :-- | :-- |
